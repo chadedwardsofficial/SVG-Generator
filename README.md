@@ -12,11 +12,14 @@
   - [Questions](#questions)
   
   ## Installation
-  Any user can clone the repository provided here "git@github.com:chadedwardsofficial/SVG-Generator.git". 
+  Any user can clone the repository provided here "https://github.com/chadedwardsofficial/SVG-Generator.git". 
   
   ## Usage
   To use the provided application, open up vs-code, run an integrated terminal in the proper folder containing the code ex. index.js, and then type "node index.js".
   
+  ## Demo
+  - Application Screenshot : ![Alt text](image.png) ![Alt text](image-1.png)
+  - 
   
   ## Contributing
   Contributors were Inquirer@8.2.4 for prompting user, Jest for testing code and SVG logos provided from the SVG documentation. 
