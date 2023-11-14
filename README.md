@@ -1,5 +1,6 @@
 
   # SVG-Generator 
+  - Application Screenshot : ![Alt text](image.png) ![Alt text](image-2.png)
   
   ## Description
   This application is designed to create a generated svg logo based off the criteria submitted by the user. 
@@ -18,9 +19,8 @@
   To use the provided application, open up vs-code, run an integrated terminal in the proper folder containing the code ex. index.js, and then type "node index.js".
   
   ## Demo
-  - Application Screenshot : ![Alt text](image.png) ![Alt text](image-2.png)
   - Application Video :  https://drive.google.com/file/d/1ACAfexwgMQC0L_jzVdBGNDzA0RXLOIFo/view
-  
+
   
   ## Contributing
   Contributors were Inquirer@8.2.4 for prompting user, Jest for testing code and SVG logos provided from the SVG documentation. 
